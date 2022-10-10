@@ -3,7 +3,7 @@ LAB 2A in Mac OS
 
 1.Pre-Lab
 In Mac OS, We first touch a hello.txt and then edit the hello.txt by vim.At last, we can see the document through cat.
-
+!(https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/Pre-lab2.png)
 2.Setting Lab 2 A
 First, Install Homebrew
 
@@ -12,7 +12,7 @@ First, Install Homebrew
 Second, Export Homebrew to environment path:
 
 (1)cd ~(open ~directory)
-(2)If we don’t have .zshrc document, we need to creat in ~~directory by touch .zshrc
+(2)If we don’t have .zshrc document, we need to creat in 
 (3)open or vim .zshrc to edit the file
 (4)add two exports to the file
      export PATH=/opt/homebrew/bin:$PATH
