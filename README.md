@@ -52,13 +52,19 @@ on the install button.
 {   "PICO_SDK_PATH":"../../pico-sdk"   }, 
 }
 
-(3)Then go to the File menu and click on "Add Folder to Workspace…" and navigate to pico-examples repo and click "Okay". The project will load and you’ll (probably) be prompted to choose a compiler, Select "GCC for arm-noneeabi" 
-![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/vscode_1.png)
+(3)Then go to the File menu and click on "Add Folder to Workspace…" and navigate to pico-examples repo and click "Okay". The project will load and you’ll (probably) be prompted to choose a compiler, Select "GCC for arm-noneeabi"
 
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/WechatIMG209.jpeg)
+
+when setup successfully,we can see that:
+
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/vscode_1.png)
+ 
 
 (4)clicke the bulid botton  we can see:
 ![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/vscode_2.png)
-![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/vscode_3png)
+
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/vscode_3.png)
 
 
 In the end, we need to Drag and drop hello_usb.uf2 onto the Mass Storage Device from the
