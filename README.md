@@ -20,6 +20,7 @@ Second, Export Homebrew to environment path:
      export PATH=/opt/homebrew/sbin:$PATH
 (5)source .zhsrc
 (6)brew -v to check.If the HomeBrew is successfully export to environment, we will look the version of HomeBrew.
+
 ![image]([https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/Pre-lab2.png](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/homebrew_install.png))
 
 
