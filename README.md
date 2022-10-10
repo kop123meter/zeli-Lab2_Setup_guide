@@ -25,17 +25,18 @@ Second, Export Homebrew to environment path:
 
 
 Third, From the above figure, we need to install the wget by 
-                                      brew install wget
+                                 brew install wget
 
-Fourth, install the toolchain:
+Then, install the toolchain:
 
 
 brew install cmake 
 brew tap ArmMbed/homebrew-formulae 
 brew install arm-none-eabi-gcc
 
-
-
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/install%20toolchain.png)
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/install%20toolchain2.png)
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/install%20toolchain3.png)
 
 Then, set environment in VsCode 
 By following the guidence in document Getting start with Raspberry 9.1:
