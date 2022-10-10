@@ -30,8 +30,10 @@ Third, From the above figure, we need to install the wget by
 Then, install the toolchain:
 
 
-brew install cmake 
+brew install cmake
+
 brew tap ArmMbed/homebrew-formulae 
+
 brew install arm-none-eabi-gcc
 
 ![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/install%20toolchain.png)
