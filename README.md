@@ -3,7 +3,8 @@ LAB 2A in Mac OS
 
 1.Pre-Lab
 In Mac OS, We first touch a hello.txt and then edit the hello.txt by vim.At last, we can see the document through cat.
-!(https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/Pre-lab2.png)
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/Pre-lab2.png)
+
 2.Setting Lab 2 A
 First, Install Homebrew
 
