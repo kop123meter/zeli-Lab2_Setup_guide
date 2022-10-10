@@ -55,16 +55,19 @@ on the install button.
 
 
 (4)clicke the bulid botton  we can see:
-
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/vscode_2.png)
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/vscode_3png)
 
 
 In the end, we need to Drag and drop hello_usb.uf2 onto the Mass Storage Device from the
-pico-examples/build/hello_world/usb/
+pico-examples/build/hello_world/usb/ like the following picture
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/Picture1.png)
 
 Then, open the terminal and link to the screen . 
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/link_to_screen.png)
 
 we can see that
-
+![image](https://github.com/kop123meter/zeli-Lab2_Setup_guide/blob/main/hello.png)
 
 
 
